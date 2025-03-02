@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WindowExerciseWeek6 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WindowExerciseWeek6 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
